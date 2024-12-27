@@ -55,6 +55,13 @@ This project involved designing and recommending an integrated ***Food Managemen
 ## Conclusion
 This project demonstrated the ability to analyze complex operational challenges, design comprehensive system solutions, and propose actionable recommendations to improve efficiency and customer satisfaction in a dynamic restaurant environment. It highlights technical and analytical skills in system design, as well as strategic thinking in project planning.
 
+## Repository
+This repository includes the following files:
+- **[1st Deliverable Report](https://github.com/patelk1833/Restaurant-System-Analysis-Design/blob/main/1st%20Deliverable%20Report.pdf)**: A detailed analysis report highlighting initial system requirements, operational inefficiencies, and proposed solutions for the restaurant management system.
+- **[2nd Deliverable Report](https://github.com/patelk1833/Restaurant-System-Analysis-Design/blob/main/2nd%20Deliverable%20Report.pdf)**: A comprehensive document showcasing finalized system design, implementation strategy, and expected outcomes for the integrated Food Management and Reservation System.
+- **[Indian Channel System Design Presentation](https://github.com/patelk1833/Restaurant-System-Analysis-Design/blob/main/Indian_Channel_System_Design_Presentation.pdf)**: A presentation summarizing the project scope, system design features, and key benefits of the proposed solution.
+
+
 
 
 
