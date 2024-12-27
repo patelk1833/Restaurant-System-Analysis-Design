@@ -1,5 +1,8 @@
 # Restaurant System Analysis Design
 
+### By: Krish Patel, Gabriel Roy, Chang-Shen Tsou, David Bantikyan
+### Date: 18th April 2024
+
 ## Project Overview  
 This project involved designing and recommending an integrated ***Food Management and Reservation System*** for The Indian Channel, a luxury fine dining restaurant in Ahmedabad, India. The objective was to enhance operational efficiency, streamline processes, and improve the customer experience by transitioning from fragmented manual systems to a unified, technology-driven solution. The restaurant industry is highly competitive and customer-focused, requiring efficient systems to address challenges such as ***inventory mismanagement***, ***operational delays***, and ***inconsistent customer service***. Implementing this integrated system was essential to resolve inefficiencies and elevate The Indian Channel's premium dining experience.
 
