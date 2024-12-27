@@ -14,6 +14,7 @@ This project involved designing and recommending an integrated ***Food Managemen
 - Online table booking recommendations with automated confirmations.
 - Data-driven insights on reservation trends and peak hours.
 - Optimized table allocation based on customer preferences and party size.
+
 **Food Management System**
 - Real-time inventory tracking and vendor integration recommendations.
 - Streamlined order processing workflows for kitchen operations.
